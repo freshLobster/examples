@@ -1,0 +1,21 @@
+a = [ 1, 2, 3, 4, 5]
+
+average(a)
+	index = 5
+	avg =0
+		1:
+		avg = 0 + 5
+		index = 4
+		2:
+		avg = 5 + 4
+		index = 3
+		3:
+		avg = 9 + 3
+		index 2
+		4:
+		avg = 12 + 2
+		index = 1
+		5:
+		avg = 14 + 1
+		index = 0 
+	avg = 15/len(a) = 15/5 = 3
